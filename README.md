@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-Em transição de carreira para Análise de Dados. Inglês fluente.
+Olá! Sou Renata, analista de dados em formação. Aprendendo tudo sobre como trabalhar com dados. Estou no processo de transição de carreira. Inglês fluente.
 
 ### 🛠 Habilidades e Ferramentas
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
@@ -19,7 +18,10 @@ Em transição de carreira para Análise de Dados. Inglês fluente.
 
 ### Projetos
 
-
+<p align="left">
+  <a href=https://github.com/Renata-Nascimento/ebac-data-M17>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Renata-Nascimento&repo=ebac-data-M17&theme=tokyonight" />
+</p>
 
 ### 📩 Entre em contato comigo
 
