@@ -21,6 +21,8 @@ Olá! Sou Renata, analista de dados em formação. Aprendendo tudo sobre como tr
 <p align="left">
   <a href=https://github.com/Renata-Nascimento/ebac-data-M17>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Renata-Nascimento&repo=ebac-data-M17&theme=tokyonight" />
+  <a href=https://github.com/Renata-Nascimento/ebac-analise-exploratoria>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Renata-Nascimento&repo=ebac-analise-exploratoria&theme=tokyonight" />
 </p>
 
 ### 📩 Entre em contato comigo
