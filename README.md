@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Olá! Sou Renata, analista de dados em formação. Aprendendo tudo sobre como trabalhar com dados. Estou no processo de transição de carreira. Inglês fluente.
+Olá! Sou Renata, analista de dados em busca da minha primeira oportunidade profissional na área. Aprendendo tudo sobre como trabalhar com dados. Estou no processo de transição de carreira. Inglês fluente.
 
 ### 🛠 Habilidades e Ferramentas
 
